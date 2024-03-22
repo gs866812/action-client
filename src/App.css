@@ -1,0 +1,16 @@
+.L-border{
+    border: 1px solid red;
+}
+*{
+    font-family: "Poppins", sans-serif;
+}
+.poppins{
+    font-family: "Poppins", sans-serif;
+}
+.right-border{
+    border-right: 1px solid #263984;
+}
+
+a.active{
+    color: #FF5722;
+}
